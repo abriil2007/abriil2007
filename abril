@@ -1,0 +1,35 @@
+<!DOCYPE html>
+<html>
+<head>
+    <title >MI PAGINA WEB</title>
+    <style>
+        body{
+            text-align: center;
+            padding: 50px;
+        }
+        h1{
+            color: rgb(255, 0, 234);
+        }
+      ul{
+        list-style-type: none;
+        padding: 0;
+        }
+        li {
+        display: inline;
+        margin-right: 35px;
+        }
+       a{
+        text-decoration: overline;
+        color: #333333;
+       }
+       </style>
+</head>
+<body>
+    <h1>Hola, gracias por visitar mi segunda pagina web</h1>
+    <ul>
+        <li><a href="https://www.last.fm/es/music/Karol+G/+albums" button style="background-color: #FFD1DC;">Enlace 1</button>
+        <li><a href="https://www.last.fm/es/music/Feid/+albums" button style="background-color: #FFD1DC;">Enlace 2</a></button>
+        <li><a href="https://www.last.fm/es/music/Mora/+albums" button style="background-color: #FFD1DC;">Enlace 3</a></button>
+    </ul>
+</body>
+</html>
