@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es"
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <title>MI SITIO WEB</title>
+    <style>
+        body {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            margin: 0cqmax;
+        }
+        header {
+            background-color: cornflowerblue
+            color: #fff;
+            padding: 23px;
+            text-align: center;
+            position:fixed;
+            bottom:3;
+            width: 70%;
+        }
+        </style>
+</head>
+<body>
+    <header>
+       <h1>            </h1> 
+        <h1>                              MI PAGINA WEB</h1>
+        <h1>            </h1> 
+    </header>
+    <nav>
+        <ul>
+            <h1>            </h1> 
+            <li><a href="#inicio">inicio</a></li>
+            <li><a href="#acerca">acerca de nosotros</a></li>
+            <li><a href="#contacto">contacto</a></li>
+        </ul>
+    </nav>
+    <section id="inicio">
+        <h1>            </h1> 
+        <h2>Hola te doy la bienvenida a mi sitio web</h2>
+        <p> Explora esta pagina interesante y descubre nuevos gustos musicales.</p>
+    </section>
+    <section id="acerca">
+        <h2>ACERCA DE NOSOTROS</h2>
+        <p>Somos un sitio web que promueve la musica.</p>
+    </section>
+    <section id="contacto">
+        <h2>contacto</h2>
+        <p>Tienes alguna duda ¡CONTACTANOS!.</p><address>
+            Email: <a href="fatimaangz1@gmail.com">fatimaangz1@gmail.com</a>
+            </address>
+    </section>
+    <footer>
+        <p>&copy; 2024 MI SITIO WEB. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
